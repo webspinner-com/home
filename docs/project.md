@@ -1,5 +1,5 @@
 <div width="10%">
-  ![webspinner.com](/images/webspinner-logo-small.png)
+  <img src="https://github.com/webspinner-com/home/blob/5806fd7edc36fc713bc1d668522d51654222163b/images/webspinner-logo-small.png" width="100">
 </div>
 
 ### Our project vision
