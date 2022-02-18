@@ -1,10 +1,10 @@
-![webspinner.com](images/webspinner-logo-small.png)
+![webspinner.com](/images/webspinner-logo-small.png)
 
 ### Our project vision
 
 webspinner.com will be a full featured codeless approach to the design, development, and deployment of web applications.
 
-![webspinner.com](images/designer.png)
+![webspinner.com](/images/designer.png)
 
 #### Designer
 
@@ -12,7 +12,7 @@ The designer is a wysiwig screen design tool that facilitates the placement of w
 
 #### The technology Stack
 
-![webspinner.com](images/techbanner.png)
+![webspinner.com](/images/techbanner.png)
 
 The use of Microsoft's Blazor front-end tool enables the development of secure front-ends that do not include javascript.
 
