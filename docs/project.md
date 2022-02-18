@@ -6,7 +6,8 @@
 
 webspinner.com will be a full featured codeless approach to the design, development, and deployment of web applications.
 
-![webspinner.com](/images/designer.png)
+<img src="https://github.com/webspinner-com/home/blob/7d36964ffdf2ceb5f5c1eb80b4207f6a0251af6c/images/designer.png" width="150"
+
 
 #### Designer
 
