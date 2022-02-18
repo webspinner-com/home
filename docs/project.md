@@ -15,7 +15,7 @@ The designer is a wysiwig screen design tool that facilitates the placement of w
 
 #### The technology Stack
 
-![webspinner.com](/images/techbanner.png)
+<img src="https://github.com/webspinner-com/home/blob/7d36964ffdf2ceb5f5c1eb80b4207f6a0251af6c/images/techbanner.png" width="650" >
 
 The use of Microsoft's Blazor front-end tool enables the development of secure front-ends that do not include javascript.
 
