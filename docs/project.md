@@ -1,4 +1,6 @@
-![webspinner.com](/images/webspinner-logo-small.png)
+<div width="10%">
+  ![webspinner.com](/images/webspinner-logo-small.png)
+</div>
 
 ### Our project vision
 
