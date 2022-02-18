@@ -1,6 +1,6 @@
-<div width="10%">
-  <img src="https://github.com/webspinner-com/home/blob/5806fd7edc36fc713bc1d668522d51654222163b/images/webspinner-logo-small.png" width="150">
-</div>
+
+<img src="https://github.com/webspinner-com/home/blob/5806fd7edc36fc713bc1d668522d51654222163b/images/webspinner-logo-small.png" width="150">
+
 
 ### Our project vision
 
